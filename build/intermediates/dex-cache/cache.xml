@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AgendaJob\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\AgendaJob\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6f30e327e4309d258c8f4f3b071bb7cba284638e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AgendaJob\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30e5d01b17d56259be3758ba14aa9f1f05fe2a7e">
+        <dex dex="C:\AgendaJob\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_33779568ea56b3d074553b2bd4cfdaf98e1b174b\classes.dex" />
+    </item>
+
+</items>
